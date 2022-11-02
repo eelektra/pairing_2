@@ -6,3 +6,6 @@ puts travel [4]
 
 puts travel [0]
 
+colorado = ["Pueblo", "Durango", "F_Collins", "Buena_Vista", "Telluride"]
+
+puts colorado.push "Denver"
